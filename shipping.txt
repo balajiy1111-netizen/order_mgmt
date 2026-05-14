@@ -1,3 +1,2 @@
-<<<<<<< HEAD
+
 I am leraning boomi
-origin/main
